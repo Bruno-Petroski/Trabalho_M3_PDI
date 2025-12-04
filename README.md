@@ -7,8 +7,6 @@
 ## Links:
 Link Colab: https://colab.research.google.com/drive/1tDkqu9GQrdQlHLaYSYuYu7QefDosXjA7?usp=sharing  
 
-Sem problemas. Aqui está o texto completo do relatório para você copiar:
-
 ***
 
 # Relatório Técnico: Detecção de Caracteres em Placas Veiculares com YOLOv11
