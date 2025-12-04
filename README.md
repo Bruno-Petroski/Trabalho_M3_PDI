@@ -1,5 +1,3 @@
-# Trabalho da M3 de PDI
-
 ## Alunos:
 - Bernardo Escobar
 - Bruno Petroski Enghi
