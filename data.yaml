@@ -1,0 +1,44 @@
+
+path: /content/dataset_split
+
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: char_0
+  1: char_1
+  2: char_2
+  3: char_3
+  4: char_4
+  5: char_5
+  6: char_6
+  7: char_7
+  8: char_8
+  9: char_9
+  10: char_10
+  11: char_11
+  12: char_12
+  13: char_13
+  14: char_14
+  15: char_15
+  16: char_16
+  17: char_17
+  18: char_18
+  19: char_19
+  20: char_20
+  21: char_21
+  22: char_22
+  23: char_23
+  24: char_24
+  25: char_25
+  26: char_26
+  27: char_27
+  28: char_28
+  29: char_29
+  30: char_30
+  31: char_31
+  32: char_32
+  33: char_33
+  34: char_34
+  35: char_35
