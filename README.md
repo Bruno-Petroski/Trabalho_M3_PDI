@@ -79,6 +79,10 @@ Ao final do treinamento, o script executa `model.val()` utilizando o conjunto de
 5. **Mean F1-Score:** A média harmônica entre Precisão e Recall, fornecendo uma visão única do equilíbrio do modelo.
 
 ### 4.1. Resultados Obtidos
+![Placa 1](placa_1.png)
+![Placa 2](placa_2.png)
+![Placa 3](placa_3.png)
+
 Após a execução do treinamento e validação no conjunto de teste separado, obtiveram-se os seguintes resultados quantitativos:
 
 | Métrica | Valor Obtido | Descrição |
